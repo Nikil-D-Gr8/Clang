@@ -20,4 +20,10 @@ void main() {
     // Modulus
     int modulus = 11 % 4;
     printf("Modulus: %d\n", modulus);
+    // Modulus is not defined over real numbers [3.5% 1.2]
+
+
+    // If any of the operands is real( got decimal) then resultant is a real number
+    // we can type cast it tho=====> mixed mode arthematic 
 }
+
